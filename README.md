@@ -1,8 +1,14 @@
 # Hold Me Down
 
+### Exhibition Shots
+
 ![Hold Me Down installation view](hold-me-down-01.jpg)
 
+*Screenshot of Hold Me Down.*
+
 ![Hold Me Down interaction detail](hold-me-down-02.jpg)
+
+*Participant interacting with the silicone hand.*
 
 *Participant interacting with the silicone hand.*
 **Author:** Jialin Xin  
