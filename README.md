@@ -1,12 +1,15 @@
 # Hold Me Down
 
-### Exhibition Shots
+## Demonstration Shots
 
-![Hold Me Down installation view](hold-me-down-01.png)
+![Hold Me Down demonstration view](./hold-me-down-01.png)
 
-*Screenshot of Hold Me Down.*
+*Demonstration of the live body-segmentation and visual fragmentation effect.*
 
-![Hold Me Down interaction detail](hold-me-down-02.png)
+![Hold Me Down interaction demonstration](./hold-me-down-02.png)
+
+*Participant pressing the silicone hand to control the digital body.*
+
 
 **Author:** Jialin Xin  
 **Date:** July 2026
