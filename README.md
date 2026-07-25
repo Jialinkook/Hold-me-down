@@ -2,11 +2,11 @@
 
 ### Exhibition Shots
 
-![Hold Me Down installation view](hold-me-down-01.jpg)
+![Hold Me Down installation view](hold-me-down-01.png)
 
 *Screenshot of Hold Me Down.*
 
-![Hold Me Down interaction detail](hold-me-down-02.jpg)
+![Hold Me Down interaction detail](hold-me-down-02.png)
 
 *Participant interacting with the silicone hand.*
 
