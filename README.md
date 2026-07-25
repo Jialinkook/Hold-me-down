@@ -1,9 +1,9 @@
 # Hold Me Down
 
-## Demonstration Shots
-
 **Author:** Jialin Xin  
 **Date:** July 2026
+
+## Demonstration Shots
 
 ![Hold Me Down demonstration view](Hold_Me_Down/image/hold-me-down-01.png)
 
