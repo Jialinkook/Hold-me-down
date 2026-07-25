@@ -9,8 +9,6 @@
 ![Hold Me Down interaction detail](hold-me-down-02.png)
 
 *Participant interacting with the silicone hand.*
-
-*Participant interacting with the silicone hand.*
 **Author:** Jialin Xin  
 **Date:** July 2026
 
