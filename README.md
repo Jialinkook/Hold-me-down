@@ -1,7 +1,7 @@
 # Hold Me Down
 
 **Author:** Jialin Xin  
-**Date:** 25 July 2026
+**Date:** July 2026
 
 ---
 
